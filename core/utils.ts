@@ -6,7 +6,7 @@ export const appendFeature=(feature:string)=>{
 }
 
 export enum AjaxStates {
-    INIT="INIT",
-    SUCCESS="SUCCESS",
-    FAILURE="FAILURE"
+    INIT="_INIT",
+    SUCCESS="_SUCCESS",
+    FAILURE="_FAILURE"
 }
