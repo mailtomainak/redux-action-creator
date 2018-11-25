@@ -1,0 +1,25 @@
+{
+  "name": "redux-action-creator",
+  "version": "1.0.0",
+  "description": "Redux Action Creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailtomainak/redux-action-creator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mailtomainak/redux-action-creator/issues"
+  },
+  "homepage": "https://github.com/mailtomainak/redux-action-creator#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.1.6"
+  }
+}
