@@ -1,5 +1,5 @@
 {
-  "name": "redux-action-creator",
+  "name": "@m5c/redux-action-creator",
   "version": "1.0.0",
   "description": "Redux Action Creator",
   "main": "index.js",
